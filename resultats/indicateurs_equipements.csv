@@ -1,90 +1,90 @@
-﻿id_equipement;type;service;marque;annee_installation;heures_utilisation_jour;criticite;sous_contrat;nb_pannes;arret_total_h;fonctionnement_h;MTBF_h;MTBF_jours;MTTR_h;disponibilite_%
-EQ001;Bistouri electrique;Bloc operatoire;Erbe;2019;9.2;3;False;5;30.8;26273.2;5255.0;219.0;6.2;99.88
-EQ002;Bistouri electrique;Bloc operatoire;Medtronic (Valleylab);2012;9.9;3;False;5;26.3;26277.7;5256.0;219.0;5.3;99.9
-EQ003;Bistouri electrique;Bloc operatoire;Medtronic (Valleylab);2020;4.8;3;True;3;7.7;26296.3;8765.0;365.0;2.6;99.97
-EQ004;Bistouri electrique;Bloc operatoire;Erbe;2017;9.6;3;False;5;52.7;26251.3;5250.0;219.0;10.5;99.8
-EQ005;Table d'operation;Bloc operatoire;Maquet;2021;7.8;2;True;0;0.0;26304.0;;;;100.0
-EQ006;Table d'operation;Bloc operatoire;Maquet;2017;6.3;2;False;6;142.5;26161.5;4360.0;182.0;23.8;99.46
-EQ007;Table d'operation;Bloc operatoire;Maquet;2018;9.0;2;True;3;27.9;26276.1;8759.0;365.0;9.3;99.89
-EQ008;Table d'operation;Bloc operatoire;Maquet;2023;9.6;2;False;0;0.0;26304.0;;;;100.0
-EQ009;Table d'operation;Bloc operatoire;Trumpf;2012;7.9;2;True;2;62.6;26241.4;13121.0;547.0;31.3;99.76
-EQ010;Table d'operation;Bloc operatoire;Trumpf;2012;8.7;2;False;4;152.6;26151.4;6538.0;272.0;38.2;99.42
-EQ011;Scialytique;Bloc operatoire;Steris;2015;7.5;2;True;2;32.7;26271.3;13136.0;547.0;16.4;99.88
-EQ012;Scialytique;Bloc operatoire;Maquet;2021;6.5;2;True;0;0.0;26304.0;;;;100.0
-EQ013;Scialytique;Bloc operatoire;Maquet;2014;8.7;2;True;2;25.4;26278.6;13139.0;547.0;12.7;99.9
-EQ014;Scialytique;Bloc operatoire;Maquet;2012;8.8;2;True;3;41.5;26262.5;8754.0;365.0;13.8;99.84
-EQ015;Scialytique;Bloc operatoire;Steris;2020;9.2;2;True;3;19.1;26284.9;8762.0;365.0;6.4;99.93
-EQ016;Scialytique;Bloc operatoire;Steris;2022;8.7;2;True;0;0.0;26304.0;;;;100.0
-EQ017;Respirateur d'anesthesie;Bloc operatoire;GE;2012;6.0;3;True;5;87.3;26216.7;5243.0;218.0;17.5;99.67
-EQ018;Respirateur d'anesthesie;Bloc operatoire;GE;2019;8.8;3;True;2;26.6;26277.4;13139.0;547.0;13.3;99.9
-EQ019;Respirateur d'anesthesie;Bloc operatoire;GE;2016;8.3;3;True;3;86.7;26217.3;8739.0;364.0;28.9;99.67
-EQ020;Respirateur d'anesthesie;Bloc operatoire;Draeger;2011;8.7;3;True;2;50.5;26253.5;13127.0;547.0;25.2;99.81
-EQ021;Respirateur d'anesthesie;Bloc operatoire;GE;2017;9.1;3;True;4;53.5;26250.5;6563.0;273.0;13.4;99.8
-EQ022;Respirateur d'anesthesie;Bloc operatoire;GE;2017;8.2;3;True;6;168.6;26135.4;4356.0;181.0;28.1;99.36
-EQ023;Ventilateur de reanimation;Reanimation;Hamilton;2014;17.7;3;True;2;93.8;26210.2;13105.0;546.0;46.9;99.64
-EQ024;Ventilateur de reanimation;Reanimation;Hamilton;2023;17.9;3;True;4;62.2;26241.8;6560.0;273.0;15.6;99.76
-EQ025;Ventilateur de reanimation;Reanimation;Draeger;2021;18.3;3;True;3;96.4;26207.6;8736.0;364.0;32.1;99.63
-EQ026;Ventilateur de reanimation;Reanimation;Hamilton;2011;22.3;3;True;6;218.8;26085.2;4348.0;181.0;36.5;99.17
-EQ027;Ventilateur de reanimation;Reanimation;Draeger;2015;22.5;3;True;7;189.1;26114.9;3731.0;155.0;27.0;99.28
-EQ028;Ventilateur de reanimation;Reanimation;Hamilton;2014;16.7;3;True;3;109.7;26194.3;8731.0;364.0;36.6;99.58
-EQ029;Ventilateur de reanimation;Reanimation;Hamilton;2019;17.3;3;True;4;127.6;26176.4;6544.0;273.0;31.9;99.51
-EQ030;Ventilateur de reanimation;Reanimation;Hamilton;2023;21.6;3;True;0;0.0;26304.0;;;;100.0
-EQ031;Moniteur multiparametrique;Reanimation;Philips;2015;19.8;3;False;3;9.5;26294.5;8765.0;365.0;3.2;99.96
-EQ032;Moniteur multiparametrique;Reanimation;Mindray;2015;18.5;3;True;7;14.7;26289.3;3756.0;156.0;2.1;99.94
-EQ033;Moniteur multiparametrique;Reanimation;Philips;2023;23.5;3;False;5;19.5;26284.5;5257.0;219.0;3.9;99.93
-EQ034;Moniteur multiparametrique;Reanimation;Philips;2013;23.8;3;False;3;8.1;26295.9;8765.0;365.0;2.7;99.97
-EQ035;Moniteur multiparametrique;Reanimation;Philips;2020;20.7;3;True;1;2.7;26301.3;26301.0;1096.0;2.7;99.99
-EQ036;Moniteur multiparametrique;Reanimation;Philips;2011;23.4;3;True;2;6.2;26297.8;13149.0;548.0;3.1;99.98
-EQ037;Moniteur multiparametrique;Reanimation;Mindray;2012;19.8;3;False;6;22.1;26281.9;4380.0;183.0;3.7;99.92
-EQ038;Moniteur multiparametrique;Reanimation;Mindray;2012;23.1;3;False;4;13.5;26290.5;6573.0;274.0;3.4;99.95
-EQ039;Moniteur multiparametrique;Reanimation;Philips;2020;20.6;3;False;1;2.6;26301.4;26301.0;1096.0;2.6;99.99
-EQ040;Moniteur multiparametrique;Reanimation;Philips;2018;21.9;3;True;3;3.6;26300.4;8767.0;365.0;1.2;99.99
-EQ041;Pousse-seringue;Reanimation;B. Braun;2021;15.9;2;False;3;13.5;26290.5;8764.0;365.0;4.5;99.95
-EQ042;Pousse-seringue;Reanimation;B. Braun;2019;9.7;2;False;1;1.5;26302.5;26302.0;1096.0;1.5;99.99
-EQ043;Pousse-seringue;Reanimation;B. Braun;2021;22.8;2;False;3;7.0;26297.0;8766.0;365.0;2.3;99.97
-EQ044;Pousse-seringue;Reanimation;B. Braun;2016;17.5;2;True;2;7.9;26296.1;13148.0;548.0;4.0;99.97
-EQ045;Pousse-seringue;Reanimation;B. Braun;2012;15.7;2;False;5;33.1;26270.9;5254.0;219.0;6.6;99.87
-EQ046;Pousse-seringue;Reanimation;Fresenius Kabi;2010;15.8;2;False;7;17.6;26286.4;3755.0;156.0;2.5;99.93
-EQ047;Pousse-seringue;Reanimation;B. Braun;2016;17.1;2;False;4;15.7;26288.3;6572.0;274.0;3.9;99.94
-EQ048;Pousse-seringue;Reanimation;Fresenius Kabi;2021;13.3;2;False;4;12.8;26291.2;6573.0;274.0;3.2;99.95
-EQ049;Pousse-seringue;Reanimation;B. Braun;2021;8.3;2;False;4;19.5;26284.5;6571.0;274.0;4.9;99.93
-EQ050;Pousse-seringue;Reanimation;B. Braun;2010;10.2;2;False;1;15.3;26288.7;26289.0;1095.0;15.3;99.94
-EQ051;Pousse-seringue;Reanimation;Fresenius Kabi;2014;18.8;2;True;2;2.6;26301.4;13151.0;548.0;1.3;99.99
-EQ052;Pousse-seringue;Reanimation;B. Braun;2013;19.6;2;False;4;24.1;26279.9;6570.0;274.0;6.0;99.91
-EQ053;Pousse-seringue;Reanimation;Fresenius Kabi;2014;22.7;2;True;2;9.2;26294.8;13147.0;548.0;4.6;99.97
-EQ054;Pousse-seringue;Reanimation;B. Braun;2013;16.9;2;False;5;15.3;26288.7;5258.0;219.0;3.1;99.94
-EQ055;Pousse-seringue;Reanimation;B. Braun;2014;20.9;2;False;4;12.6;26291.4;6573.0;274.0;3.2;99.95
-EQ056;Pousse-seringue;Reanimation;Fresenius Kabi;2012;12.7;2;False;2;13.6;26290.4;13145.0;548.0;6.8;99.95
-EQ057;Pousse-seringue;Reanimation;Fresenius Kabi;2022;23.0;2;True;2;4.0;26300.0;13150.0;548.0;2.0;99.98
-EQ058;Pousse-seringue;Reanimation;B. Braun;2017;15.0;2;False;2;7.7;26296.3;13148.0;548.0;3.8;99.97
-EQ059;Pousse-seringue;Reanimation;B. Braun;2012;20.0;2;False;6;7.4;26296.6;4383.0;183.0;1.2;99.97
-EQ060;Defibrillateur;Urgences;Zoll;2022;1.3;3;True;0;0.0;26304.0;;;;100.0
-EQ061;Defibrillateur;Urgences;Zoll;2020;1.5;3;True;1;0.7;26303.3;26303.0;1096.0;0.7;100.0
-EQ062;Defibrillateur;Urgences;Philips;2011;1.6;3;True;6;27.2;26276.8;4379.0;182.0;4.5;99.9
-EQ063;Defibrillateur;Urgences;Zoll;2023;0.9;3;True;0;0.0;26304.0;;;;100.0
-EQ064;Defibrillateur;Urgences;Zoll;2021;0.7;3;True;0;0.0;26304.0;;;;100.0
-EQ065;Defibrillateur;Urgences;Zoll;2018;1.8;3;True;3;19.4;26284.6;8762.0;365.0;6.5;99.93
-EQ066;Defibrillateur;Urgences;Zoll;2014;1.7;3;False;3;24.2;26279.8;8760.0;365.0;8.1;99.91
-EQ067;Electrocardiographe;Urgences;GE;2016;2.1;1;True;1;2.4;26301.6;26302.0;1096.0;2.4;99.99
-EQ068;Electrocardiographe;Urgences;Schiller;2013;4.7;1;True;4;7.0;26297.0;6574.0;274.0;1.8;99.97
-EQ069;Electrocardiographe;Urgences;Schiller;2014;4.8;1;False;3;10.5;26293.5;8764.0;365.0;3.5;99.96
-EQ070;Electrocardiographe;Urgences;GE;2015;5.2;1;False;3;6.8;26297.2;8766.0;365.0;2.3;99.97
-EQ071;Electrocardiographe;Urgences;Schiller;2011;2.5;1;True;0;0.0;26304.0;;;;100.0
-EQ072;Electrocardiographe;Urgences;GE;2017;3.6;1;False;3;11.7;26292.3;8764.0;365.0;3.9;99.96
-EQ073;Electrocardiographe;Urgences;GE;2011;4.7;1;False;2;6.7;26297.3;13149.0;548.0;3.4;99.97
-EQ074;Echographe;Imagerie;Siemens;2014;11.5;2;True;3;60.7;26243.3;8748.0;364.0;20.2;99.77
-EQ075;Echographe;Imagerie;Siemens;2017;9.8;2;True;7;265.3;26038.7;3720.0;155.0;37.9;98.99
-EQ076;Echographe;Imagerie;Philips;2011;8.5;2;False;9;763.7;25540.3;2838.0;118.0;84.9;97.1
-EQ077;Echographe;Imagerie;GE;2018;11.6;2;False;7;342.2;25961.8;3709.0;155.0;48.9;98.7
-EQ078;Echographe;Imagerie;Siemens;2016;10.7;2;True;2;68.1;26235.9;13118.0;547.0;34.0;99.74
-EQ079;Generateur d'hemodialyse;Hemodialyse;Fresenius;2014;14.8;3;True;11;219.5;26084.5;2371.0;99.0;20.0;99.17
-EQ080;Generateur d'hemodialyse;Hemodialyse;B. Braun;2014;13.6;3;False;11;294.1;26009.9;2365.0;99.0;26.7;98.88
-EQ081;Generateur d'hemodialyse;Hemodialyse;Nipro;2020;12.5;3;True;6;86.8;26217.2;4370.0;182.0;14.5;99.67
-EQ082;Generateur d'hemodialyse;Hemodialyse;Nipro;2022;13.9;3;False;8;169.5;26134.5;3267.0;136.0;21.2;99.36
-EQ083;Generateur d'hemodialyse;Hemodialyse;Nipro;2013;11.5;3;True;8;76.4;26227.6;3278.0;137.0;9.5;99.71
-EQ084;Generateur d'hemodialyse;Hemodialyse;Nipro;2023;14.9;3;True;12;232.1;26071.9;2173.0;91.0;19.3;99.12
-EQ085;Generateur d'hemodialyse;Hemodialyse;B. Braun;2022;13.6;3;True;2;61.4;26242.6;13121.0;547.0;30.7;99.77
-EQ086;Generateur d'hemodialyse;Hemodialyse;Fresenius;2012;11.9;3;True;7;150.2;26153.8;3736.0;156.0;21.5;99.43
-EQ087;Generateur d'hemodialyse;Hemodialyse;B. Braun;2022;11.0;3;True;2;52.0;26252.0;13126.0;547.0;26.0;99.8
-EQ088;Generateur d'hemodialyse;Hemodialyse;B. Braun;2018;10.7;3;True;10;192.5;26111.5;2611.0;109.0;19.2;99.27
-EQ089;Generateur d'hemodialyse;Hemodialyse;Fresenius;2019;11.0;3;True;5;119.5;26184.5;5237.0;218.0;23.9;99.55
+﻿id_equipement;type;service;marque;annee_installation;heures_utilisation_jour;criticite;sous_contrat;intervalle_mp_mois;nb_pannes;arret_total_h;fonctionnement_h;MTBF_h;MTBF_jours;MTTR_h;disponibilite_%
+EQ001;Bistouri electrique;Bloc operatoire;Erbe;2019;9.2;3;False;12;3;16.0;26288.0;8763.0;365.0;5.3;99.94
+EQ002;Bistouri electrique;Bloc operatoire;Medtronic (Valleylab);2012;9.9;3;False;12;10;65.4;26238.6;2624.0;109.0;6.5;99.75
+EQ003;Bistouri electrique;Bloc operatoire;Medtronic (Valleylab);2020;4.8;3;True;12;1;5.2;26298.8;26299.0;1096.0;5.2;99.98
+EQ004;Bistouri electrique;Bloc operatoire;Erbe;2017;9.6;3;False;12;2;17.4;26286.6;13143.0;548.0;8.7;99.93
+EQ005;Table d'operation;Bloc operatoire;Maquet;2021;7.8;2;True;12;2;54.5;26249.5;13125.0;547.0;27.2;99.79
+EQ006;Table d'operation;Bloc operatoire;Maquet;2017;6.3;2;False;12;1;50.1;26253.9;26254.0;1094.0;50.1;99.81
+EQ007;Table d'operation;Bloc operatoire;Maquet;2018;9.0;2;True;12;1;5.9;26298.1;26298.0;1096.0;5.9;99.98
+EQ008;Table d'operation;Bloc operatoire;Maquet;2023;9.6;2;False;12;4;117.8;26186.2;6547.0;273.0;29.4;99.55
+EQ009;Table d'operation;Bloc operatoire;Trumpf;2012;7.9;2;True;12;4;159.0;26145.0;6536.0;272.0;39.8;99.4
+EQ010;Table d'operation;Bloc operatoire;Trumpf;2012;8.7;2;False;12;3;133.5;26170.5;8724.0;363.0;44.5;99.49
+EQ011;Scialytique;Bloc operatoire;Steris;2015;7.5;2;True;12;4;41.0;26263.0;6566.0;274.0;10.2;99.84
+EQ012;Scialytique;Bloc operatoire;Maquet;2021;6.5;2;True;12;2;18.9;26285.1;13143.0;548.0;9.4;99.93
+EQ013;Scialytique;Bloc operatoire;Maquet;2014;8.7;2;True;12;2;92.7;26211.3;13106.0;546.0;46.3;99.65
+EQ014;Scialytique;Bloc operatoire;Maquet;2012;8.8;2;True;12;3;41.6;26262.4;8754.0;365.0;13.9;99.84
+EQ015;Scialytique;Bloc operatoire;Steris;2020;9.2;2;True;12;1;15.8;26288.2;26288.0;1095.0;15.8;99.94
+EQ016;Scialytique;Bloc operatoire;Steris;2022;8.7;2;True;12;1;14.8;26289.2;26289.0;1095.0;14.8;99.94
+EQ017;Respirateur d'anesthesie;Bloc operatoire;GE;2012;6.0;3;True;6;4;64.9;26239.1;6560.0;273.0;16.2;99.75
+EQ018;Respirateur d'anesthesie;Bloc operatoire;GE;2019;8.8;3;True;6;2;15.5;26288.5;13144.0;548.0;7.8;99.94
+EQ019;Respirateur d'anesthesie;Bloc operatoire;GE;2016;8.3;3;True;6;2;25.4;26278.6;13139.0;547.0;12.7;99.9
+EQ020;Respirateur d'anesthesie;Bloc operatoire;Draeger;2011;8.7;3;True;6;8;115.6;26188.4;3274.0;136.0;14.4;99.56
+EQ021;Respirateur d'anesthesie;Bloc operatoire;GE;2017;9.1;3;True;6;3;157.9;26146.1;8715.0;363.0;52.6;99.4
+EQ022;Respirateur d'anesthesie;Bloc operatoire;GE;2017;8.2;3;True;6;6;96.5;26207.5;4368.0;182.0;16.1;99.63
+EQ023;Ventilateur de reanimation;Reanimation;Hamilton;2014;17.7;3;True;6;6;131.2;26172.8;4362.0;182.0;21.9;99.5
+EQ024;Ventilateur de reanimation;Reanimation;Hamilton;2023;17.9;3;True;6;3;152.2;26151.8;8717.0;363.0;50.7;99.42
+EQ025;Ventilateur de reanimation;Reanimation;Draeger;2021;18.3;3;True;6;8;234.7;26069.3;3259.0;136.0;29.3;99.11
+EQ026;Ventilateur de reanimation;Reanimation;Hamilton;2011;22.3;3;True;6;5;102.2;26201.8;5240.0;218.0;20.4;99.61
+EQ027;Ventilateur de reanimation;Reanimation;Draeger;2015;22.5;3;True;6;1;30.9;26273.1;26273.0;1095.0;30.9;99.88
+EQ028;Ventilateur de reanimation;Reanimation;Hamilton;2014;16.7;3;True;6;2;73.1;26230.9;13115.0;546.0;36.6;99.72
+EQ029;Ventilateur de reanimation;Reanimation;Hamilton;2019;17.3;3;True;6;3;135.5;26168.5;8723.0;363.0;45.2;99.48
+EQ030;Ventilateur de reanimation;Reanimation;Hamilton;2023;21.6;3;True;6;1;1.7;26302.3;26302.0;1096.0;1.7;99.99
+EQ031;Moniteur multiparametrique;Reanimation;Philips;2015;19.8;3;False;12;1;1.9;26302.1;26302.0;1096.0;1.9;99.99
+EQ032;Moniteur multiparametrique;Reanimation;Mindray;2015;18.5;3;True;12;5;9.6;26294.4;5259.0;219.0;1.9;99.96
+EQ033;Moniteur multiparametrique;Reanimation;Philips;2023;23.5;3;False;12;1;3.9;26300.1;26300.0;1096.0;3.9;99.99
+EQ034;Moniteur multiparametrique;Reanimation;Philips;2013;23.8;3;False;12;5;25.5;26278.5;5256.0;219.0;5.1;99.9
+EQ035;Moniteur multiparametrique;Reanimation;Philips;2020;20.7;3;True;12;2;6.3;26297.7;13149.0;548.0;3.2;99.98
+EQ036;Moniteur multiparametrique;Reanimation;Philips;2011;23.4;3;True;12;1;4.1;26299.9;26300.0;1096.0;4.1;99.98
+EQ037;Moniteur multiparametrique;Reanimation;Mindray;2012;19.8;3;False;12;4;27.3;26276.7;6569.0;274.0;6.8;99.9
+EQ038;Moniteur multiparametrique;Reanimation;Mindray;2012;23.1;3;False;12;2;3.3;26300.7;13150.0;548.0;1.6;99.99
+EQ039;Moniteur multiparametrique;Reanimation;Philips;2020;20.6;3;False;12;4;15.4;26288.6;6572.0;274.0;3.8;99.94
+EQ040;Moniteur multiparametrique;Reanimation;Philips;2018;21.9;3;True;12;2;5.1;26298.9;13149.0;548.0;2.6;99.98
+EQ041;Pousse-seringue;Reanimation;B. Braun;2021;15.9;2;False;12;0;0.0;26304.0;;;;100.0
+EQ042;Pousse-seringue;Reanimation;B. Braun;2019;9.7;2;False;12;0;0.0;26304.0;;;;100.0
+EQ043;Pousse-seringue;Reanimation;B. Braun;2021;22.8;2;False;12;3;8.9;26295.1;8765.0;365.0;3.0;99.97
+EQ044;Pousse-seringue;Reanimation;B. Braun;2016;17.5;2;True;12;2;2.6;26301.4;13151.0;548.0;1.3;99.99
+EQ045;Pousse-seringue;Reanimation;B. Braun;2012;15.7;2;False;12;2;3.9;26300.1;13150.0;548.0;2.0;99.99
+EQ046;Pousse-seringue;Reanimation;Fresenius Kabi;2010;15.8;2;False;12;2;7.5;26296.5;13148.0;548.0;3.8;99.97
+EQ047;Pousse-seringue;Reanimation;B. Braun;2016;17.1;2;False;12;5;37.1;26266.9;5253.0;219.0;7.4;99.86
+EQ048;Pousse-seringue;Reanimation;Fresenius Kabi;2021;13.3;2;False;12;2;4.4;26299.6;13150.0;548.0;2.2;99.98
+EQ049;Pousse-seringue;Reanimation;B. Braun;2021;8.3;2;False;12;3;6.0;26298.0;8766.0;365.0;2.0;99.98
+EQ050;Pousse-seringue;Reanimation;B. Braun;2010;10.2;2;False;12;4;17.0;26287.0;6572.0;274.0;4.2;99.94
+EQ051;Pousse-seringue;Reanimation;Fresenius Kabi;2014;18.8;2;True;12;2;2.3;26301.7;13151.0;548.0;1.2;99.99
+EQ052;Pousse-seringue;Reanimation;B. Braun;2013;19.6;2;False;12;7;13.4;26290.6;3756.0;156.0;1.9;99.95
+EQ053;Pousse-seringue;Reanimation;Fresenius Kabi;2014;22.7;2;True;12;2;3.2;26300.8;13150.0;548.0;1.6;99.99
+EQ054;Pousse-seringue;Reanimation;B. Braun;2013;16.9;2;False;12;1;3.4;26300.6;26301.0;1096.0;3.4;99.99
+EQ055;Pousse-seringue;Reanimation;B. Braun;2014;20.9;2;False;12;2;7.0;26297.0;13148.0;548.0;3.5;99.97
+EQ056;Pousse-seringue;Reanimation;Fresenius Kabi;2012;12.7;2;False;12;3;5.5;26298.5;8766.0;365.0;1.8;99.98
+EQ057;Pousse-seringue;Reanimation;Fresenius Kabi;2022;23.0;2;True;12;1;3.6;26300.4;26300.0;1096.0;3.6;99.99
+EQ058;Pousse-seringue;Reanimation;B. Braun;2017;15.0;2;False;12;1;2.3;26301.7;26302.0;1096.0;2.3;99.99
+EQ059;Pousse-seringue;Reanimation;B. Braun;2012;20.0;2;False;12;8;36.8;26267.2;3283.0;137.0;4.6;99.86
+EQ060;Defibrillateur;Urgences;Zoll;2022;1.3;3;True;6;0;0.0;26304.0;;;;100.0
+EQ061;Defibrillateur;Urgences;Zoll;2020;1.5;3;True;6;0;0.0;26304.0;;;;100.0
+EQ062;Defibrillateur;Urgences;Philips;2011;1.6;3;True;6;0;0.0;26304.0;;;;100.0
+EQ063;Defibrillateur;Urgences;Zoll;2023;0.9;3;True;6;0;0.0;26304.0;;;;100.0
+EQ064;Defibrillateur;Urgences;Zoll;2021;0.7;3;True;6;0;0.0;26304.0;;;;100.0
+EQ065;Defibrillateur;Urgences;Zoll;2018;1.8;3;True;6;2;15.5;26288.5;13144.0;548.0;7.8;99.94
+EQ066;Defibrillateur;Urgences;Zoll;2014;1.7;3;False;6;3;41.9;26262.1;8754.0;365.0;14.0;99.84
+EQ067;Electrocardiographe;Urgences;GE;2016;2.1;1;True;12;1;6.6;26297.4;26297.0;1096.0;6.6;99.97
+EQ068;Electrocardiographe;Urgences;Schiller;2013;4.7;1;True;12;2;2.5;26301.5;13151.0;548.0;1.2;99.99
+EQ069;Electrocardiographe;Urgences;Schiller;2014;4.8;1;False;12;1;8.8;26295.2;26295.0;1096.0;8.8;99.97
+EQ070;Electrocardiographe;Urgences;GE;2015;5.2;1;False;12;2;2.4;26301.6;13151.0;548.0;1.2;99.99
+EQ071;Electrocardiographe;Urgences;Schiller;2011;2.5;1;True;12;1;3.1;26300.9;26301.0;1096.0;3.1;99.99
+EQ072;Electrocardiographe;Urgences;GE;2017;3.6;1;False;12;2;6.4;26297.6;13149.0;548.0;3.2;99.98
+EQ073;Electrocardiographe;Urgences;GE;2011;4.7;1;False;12;5;27.5;26276.5;5255.0;219.0;5.5;99.9
+EQ074;Echographe;Imagerie;Siemens;2014;11.5;2;True;12;5;154.2;26149.8;5230.0;218.0;30.8;99.41
+EQ075;Echographe;Imagerie;Siemens;2017;9.8;2;True;12;2;53.8;26250.2;13125.0;547.0;26.9;99.8
+EQ076;Echographe;Imagerie;Philips;2011;8.5;2;False;12;2;147.4;26156.6;13078.0;545.0;73.7;99.44
+EQ077;Echographe;Imagerie;GE;2018;11.6;2;False;12;4;325.2;25978.8;6495.0;271.0;81.3;98.76
+EQ078;Echographe;Imagerie;Siemens;2016;10.7;2;True;12;7;505.3;25798.7;3686.0;154.0;72.2;98.08
+EQ079;Generateur d'hemodialyse;Hemodialyse;Fresenius;2014;14.8;3;True;6;14;266.6;26037.4;1860.0;77.0;19.0;98.99
+EQ080;Generateur d'hemodialyse;Hemodialyse;B. Braun;2014;13.6;3;False;6;17;595.6;25708.4;1512.0;63.0;35.0;97.74
+EQ081;Generateur d'hemodialyse;Hemodialyse;Nipro;2020;12.5;3;True;6;5;160.6;26143.4;5229.0;218.0;32.1;99.39
+EQ082;Generateur d'hemodialyse;Hemodialyse;Nipro;2022;13.9;3;False;6;4;79.0;26225.0;6556.0;273.0;19.8;99.7
+EQ083;Generateur d'hemodialyse;Hemodialyse;Nipro;2013;11.5;3;True;6;5;127.2;26176.8;5235.0;218.0;25.4;99.52
+EQ084;Generateur d'hemodialyse;Hemodialyse;Nipro;2023;14.9;3;True;6;5;50.6;26253.4;5251.0;219.0;10.1;99.81
+EQ085;Generateur d'hemodialyse;Hemodialyse;B. Braun;2022;13.6;3;True;6;7;219.4;26084.6;3726.0;155.0;31.3;99.17
+EQ086;Generateur d'hemodialyse;Hemodialyse;Fresenius;2012;11.9;3;True;6;11;279.1;26024.9;2366.0;99.0;25.4;98.94
+EQ087;Generateur d'hemodialyse;Hemodialyse;B. Braun;2022;11.0;3;True;6;6;174.9;26129.1;4355.0;181.0;29.2;99.34
+EQ088;Generateur d'hemodialyse;Hemodialyse;B. Braun;2018;10.7;3;True;6;7;122.6;26181.4;3740.0;156.0;17.5;99.53
+EQ089;Generateur d'hemodialyse;Hemodialyse;Fresenius;2019;11.0;3;True;6;8;148.2;26155.8;3269.0;136.0;18.5;99.44
